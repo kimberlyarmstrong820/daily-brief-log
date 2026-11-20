@@ -6,8 +6,8 @@ Updated automatically each weekday morning.
 
 ## Latest
 
+- [2026-11-20](updates/2026-11-20.md)
 - [2026-11-19](updates/2026-11-19.md)
 - [2026-11-18](updates/2026-11-18.md)
 - [2026-11-17](updates/2026-11-17.md)
 - [2026-11-16](updates/2026-11-16.md)
-- [2026-11-13](updates/2026-11-13.md)
